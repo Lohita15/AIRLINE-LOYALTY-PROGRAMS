@@ -107,8 +107,7 @@ Features:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com//airline-dashboard.git
-cd airline-dashboard
+git clone https://github.com/Lohita15/AIRLINE-LOYALTY-PROGRAMS.git
 ```
 
 ### 2. Install dependencies
