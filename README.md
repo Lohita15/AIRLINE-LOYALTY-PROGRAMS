@@ -107,7 +107,7 @@ Features:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/airline-dashboard.git
+git clone https://github.com//airline-dashboard.git
 cd airline-dashboard
 ```
 
@@ -147,7 +147,8 @@ This project enables:
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here in your repo)*
+<img width="1830" height="827" alt="ap8" src="https://github.com/user-attachments/assets/ef5220b8-184a-4c7e-8284-ac7df70dd099" />
+
 
 * Priority Customers Panel
 * Customer Overview
@@ -172,9 +173,8 @@ Designed for non-technical users, the dashboard ensures that a marketing manager
 
 ## 👤 Author
 
-**Your Name**
-B.E CSE Student
-Summer Project – Consulting & Analytics Club, IIT Guwahati
+**G.Lohita Reddy**
+B.E CSE Student-NGIT 
 
 ---
 
